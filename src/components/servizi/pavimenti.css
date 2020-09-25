@@ -1,0 +1,32 @@
+.pavimenti{
+    color: #132530;
+    padding-top: 2rem;
+    position: relative;
+    justify-content: center;
+    margin-bottom: 4rem;
+}
+
+.pavimenti img{
+    height: 90px;
+    display: flex;
+    margin-left: 12rem;
+}
+
+.pavimenti-testo a{
+    text-decoration: none;
+    color: #386c9c;
+}
+
+.pavimenti-testo h3{
+    color: #132530;
+}
+
+.pavimenti-testo {
+    color: #274158;
+    font-size: 18px;
+    line-height: 20px;
+    padding: 35px 20px;
+    max-width: 1280px;
+    margin: 0 auto;
+    box-sizing: border-box;
+}
