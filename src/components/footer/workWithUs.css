@@ -1,0 +1,13 @@
+.lavoro {
+    background-image: url('/images/squadra1.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 50% 40%;
+
+    color: #274158;
+    font-size: 18px;
+    display: flex;
+   padding-top: 30px;
+    padding-left: 3rem;
+    padding-bottom: 30rem;
+}
