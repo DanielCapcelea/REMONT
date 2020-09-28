@@ -1,0 +1,33 @@
+.serramenti{
+    color: #132530;
+    padding-top: 2rem;
+    position: relative;
+    margin-right: 2rem;
+    justify-content: center;
+    margin-bottom: 4rem;
+}
+
+.serramenti img{
+    height: 80px;
+    display: flex;
+    margin-left: 12rem;
+}
+
+.serramenti-testo a{
+    text-decoration: none;
+    color: #386c9c;
+}
+
+.serramenti-testo h3{
+    color: #132530;
+}
+
+.serramenti-testo {
+    color: #274158;
+    font-size: 18px;
+    line-height: 20px;
+    padding: 35px 20px;
+    max-width: 1280px;
+    margin: 0 auto;
+    box-sizing: border-box;
+}

@@ -1,0 +1,33 @@
+.disotturazione{
+    color: #132530;
+    padding-top: 2rem;
+    position: relative;
+    margin-right: 3rem;
+    justify-content: center;
+    margin-bottom: 4rem;
+}
+
+.disotturazione img{
+    height: 80px;
+    display: flex;
+    margin-left: 12rem;
+}
+
+.disotturazione-testo a{
+    text-decoration: none;
+    color: #386c9c;
+}
+
+.disotturazione-testo h3{
+    color: #132530;
+}
+
+.disotturazione-testo {
+    color: #274158;
+    font-size: 18px;
+    line-height: 20px;
+    padding: 35px 20px;
+    max-width: 1280px;
+    margin: 0 auto;
+    box-sizing: border-box;
+}

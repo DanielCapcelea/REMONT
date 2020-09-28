@@ -1,13 +1,14 @@
 import React from "react";
 import '../../App.css';
 import Footer from "../Footer";
+import ListaServizi from "../ListaServizi";
 
-export default function Recensioni() {
+export default function Servizi() {
     return (
         <>
-            <h1 className='recensioni'>RECENSIONI</h1>
-
+            <ListaServizi/>
             <Footer/>
         </>
     );
 }
+
