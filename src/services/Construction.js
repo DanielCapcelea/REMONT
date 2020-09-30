@@ -1,16 +1,14 @@
 import React from "react";
-import '../App.css';
-import Footer from "../Footer";
-import edilizia from './edilizia.css';
+import Footer from '../components/Footer';
+import './construction.css';
 
-export default function Edilizia() {
+export default function Construction() {
     return (
         <>
             <div className='edilizia'>
-                <img src='/images/edilizia.png'></img>
+                <img src='/images/edilizia.png'/>
                 <h1>EDILIZIA</h1>
                 <div className='edilizia-testo'>
-
                     Può essere che sia da ristrutturare, o da rifinire. Può essere che già ci abiti e hai comunque
                     bisogno di un intervento di ripristino o di qualche manutenzione.<br/><br/>
                     <strong>Che si tratti di intonacare un soffitto, di verniciare le porte, di lucidatura dei

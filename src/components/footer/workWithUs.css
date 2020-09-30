@@ -3,11 +3,59 @@
     background-size: cover;
     background-repeat: no-repeat;
     background-position: 50% 40%;
-
     color: #274158;
     font-size: 18px;
     display: flex;
-   padding-top: 30px;
-    padding-left: 3rem;
-    padding-bottom: 30rem;
+    padding: 4rem;
+}
+
+.lavoro legend {
+    font-size: 23px;
+}
+
+.form-container-work {
+    border: none;
+}
+
+.btn-work {
+    position: relative;
+    font-size: 18px;
+}
+
+.btn-work:hover {
+    background-color: #132530;
+    color: #fff;
+}
+
+.btn-work-file {
+    font-size: 15px;
+}
+
+.form-container-work .btn-work {
+    padding: 16px 20px;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+
+}
+
+.form-container-work input[type=text], input[type=number], input[type=password] {
+    border: none;
+    border-bottom: 2px solid black;
+    background: transparent;
+    margin-left: 5px;
+}
+
+.form-email {
+    border: none;
+    border-bottom: 2px solid black;
+    background: transparent;
+    margin-left: 5px;
+}
+
+.form-container-text {
+    border: none;
+    border-bottom: 2px solid black;
+    background: transparent;
+    font-size: 18px;
 }

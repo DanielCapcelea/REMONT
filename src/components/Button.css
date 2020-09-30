@@ -10,6 +10,23 @@
     cursor: pointer;
 }
 
+@keyframes bounce {
+    0%, 20%, 60%, 100% {
+        -webkit-transform: translateY(0);
+        transform: translateY(0);
+    }
+
+    40% {
+        -webkit-transform: translateY(-20px);
+        transform: translateY(-20px);
+    }
+
+    80% {
+        -webkit-transform: translateY(-10px);
+        transform: translateY(-10px);
+    }
+}
+
 .btn--primary {
     background-color: var(--primary);
     color: #242424;
@@ -24,6 +41,12 @@
     transition: all 0.3s ease-out;
 }
 
+.btn--outline:hover {
+    color: #255784;
+    background: #fff;
+    box-shadow: 0 0 10px #2196f3, 0 0 40px #2196f3, 0 0 80px #2196f3;
+}
+
 .btn--medium {
     padding: 8px 20px;
     font-size: 18px;
@@ -34,10 +57,47 @@
     font-size: 20px;
 }
 
-.btn--large:hover,
-.btn--medium:hover {
+.btn--large:hover {
+    animation: bounce 1s;
+    border-radius: 12px;
+}
+
+.open-button:hover {
     transition: all 0.3s ease-out;
     background: #fff;
     border-radius: 12px;
-    color: #f47d2f;
+    color: black;
 }
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+/* Button used to open the contact form - fixed at the bottom of the page */
+.open-button {
+    background-color: var(--primary);
+    padding: 12px 26px;
+    font-size: 20px;
+    border: 0.5px solid;
+    transition: all 0.3s ease-out;
+    position: fixed;
+    bottom: 23px;
+    right: 28px;
+    width: 280px;
+}
+
+/* The popup form - hidden by default */
+.form-popup {
+    display: none;
+    position: fixed;
+    bottom: 0;
+    right: 15px;
+    border: 3px solid #f1f1f1;
+    z-index: 9;
+}
+
+

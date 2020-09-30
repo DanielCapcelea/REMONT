@@ -1,21 +1,22 @@
 import React from "react";
-import '../App.css';
-import Footer from "../Footer";
-import idraulici from './idraulici.css';
+import Footer from '../components/Footer';
+import './hydraulic.css';
 
 
-export default function Idraulici() {
+export default function Hydraulic() {
     return (
         <>
             <div className='idraulici'>
-                <img src='/images/idraulici.png'></img><h1> SERVIZI IDRAULICI</h1>
+                <img src='/images/idraulici.png'/><h1> SERVIZI IDRAULICI</h1>
                 <div className='idraulici-testo'>
+                    <h3>Può scegliere tra i seguenti servizi:</h3>
                     <ul>
                         <li>
                             Progettare e installare impianti igienico-sanitari, di riscaldamento e di climatizzazione
                         </li>
                         <li>
-                            Fare la manutenzione ordinaria e straordinaria degli impianti idrico-sanitari e di scarico
+                            Fare la manutenzione ordinaria e straordinaria degli <strong> impianti
+                            idrico-sanitari</strong> e di scarico
                         </li>
                         <li>
                             Individuare e riparare guasti e malfunzionamenti
@@ -31,7 +32,7 @@ export default function Idraulici() {
                         </li>
                     </ul>
                     <br/><br/>
-                    <h3>Montaggio sanitari</h3><br/>
+                    <h3><strong>Montaggio sanitari</strong></h3><br/>
                     Gli <strong>idraulici esperti "RomaServiziCasa"</strong> sono a tua disposizione in ogni momento per
                     intervenire con
                     rapidità ed eseguire tutti i tipi <strong>d'installazione di sanitari a regola d'arte</strong> e ad
@@ -49,9 +50,8 @@ export default function Idraulici() {
                     sanitari
                     vecchi, eventualmente provvedendo al loro smaltimento. Installa quindi le tubature necessarie,
                     predisponendo le flange e gli attacchi.
-                    Provvede quindi a <strong>cambiare il morsetto di scarico, a ripulire l'alloggiamento dei sanitari a
-                    terra,
-                    rimuovendo i residui e fissa i nuovi lavandini bidet e wc</strong>, collegando le
+                    Provvede quindi a cambiare il morsetto di scarico, a ripulire l'alloggiamento dei sanitari a
+                    terra, rimuovendo i residui e fissa i nuovi lavandini bidet e wc, collegando le
                     tubazioni flessibili e allacciando i punti di carico e scarico delle acque.
                     <br/><br/>
                     <h3>Cosa è incluso nel servizio</h3><br/>
@@ -67,8 +67,7 @@ export default function Idraulici() {
                         Nell'intervento sono inclusi tutti i materiali di consumo necessari.
                         Sull'installazione di nuovi sanitari è compresa la garanzia per un periodo di 1 anno.
                         <br/>*Il servizio non include la fornitura dei nuovi sanitari né eventuali interventi alla
-                        cassetta
-                        di scarico.
+                        cassetta di scarico.
                     </ul>
                     <br/>
                     <strong>Rispondiamo tutti i giorni a qualsiasi orario, anche nei giorni festivi.</strong>

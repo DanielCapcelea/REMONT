@@ -4,7 +4,7 @@
     position: relative;
     margin-right: 2rem;
     justify-content: center;
-    margin-bottom: 4rem;
+    margin-bottom: 3rem;
 }
 
 .idraulici img{
@@ -23,7 +23,7 @@
 }
 
 .idraulici-testo {
-    color: #274158;
+    color: #102a4c;
     font-size: 18px;
     line-height: 20px;
     padding: 35px 20px;

@@ -1,7 +1,7 @@
 import React from "react";
 import Footer from "../Footer";
 
-export default function Condizioni() {
+export default function Conditions() {
     return (
         <>
             <strong>

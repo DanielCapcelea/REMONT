@@ -2,6 +2,7 @@ import React, {useState, useEffect} from 'react';
 import {Link} from 'react-router-dom';
 
 import './Navbar.css';
+import {Button} from "./Button";
 
 
 function Navbar() {
@@ -31,7 +32,7 @@ function Navbar() {
             <nav className="navbar">
                 <div className="navbar-container">
                     <Link to="/" className="navbar-logo" onClick={closeMobileMenu}>
-                        <img src="/images/logo.png"/> RIPARAZIONI ROMA
+                        <img src="/images/logo.png"/><strong>RomaServiziCasa</strong>
                     </Link>
                     <div className="menu-icon" onClick={handleClick}>
                         <i className={click ? 'fas fa-times' : 'fas fa-bars'}/>
@@ -39,25 +40,22 @@ function Navbar() {
                     <ul className={click ? 'nav-menu active' : 'nav-menu'}>
                         <li className='nav-item'>
                             <Link to='/' className='nav-links' onClick={closeMobileMenu}>
-                                <i className="fas fa-home"/> PAGINA PRINCIPALE
+                                <i className="fas fa-home fa-fw"/> PAGINA PRINCIPALE
                             </Link>
                         </li>
                         <li className='nav-item'>
                             <Link to='/servizi' className='nav-links' onClick={closeMobileMenu}>
-                                <i className="fas fa-tools fa-fw"></i> SERVIZI
-                            </Link>
-                        </li>
-                        <li className='nav-item'>
-                            <Link to='/recensioni' className='nav-links' onClick={closeMobileMenu}>
-                                <i className="fas fa-grin-stars fa-fw"></i> RECENSIONI
+                                <i className="fas fa-tools fa-fw"/> SERVIZI
                             </Link>
                         </li>
                         <li className='nav-item'>
                             <Link to='/contatti' className='nav-links' onClick={closeMobileMenu}>
-                                <i className="far fa-address-book fa-fw"></i> CONTATTI
+                                <i className="far fa-address-book fa-fw"/> CONTATTI
                             </Link>
                         </li>
                     </ul>
+                    {button &&
+                    <Button buttonStyle='btn--outline'><i className="fas fa-phone-volume fa-fw"/>Chiama Ora</Button>}
                 </div>
             </nav>
         </>

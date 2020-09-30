@@ -15,15 +15,12 @@ i {
     margin-right: 0.1em;
 }
 
-img {
+.navbar img {
     height: 70px;
     margin-bottom: 5px;
     margin-right: 15px;
 }
 
-img:hover{
-    transform: scale(1.2);
-}
 
 .navbar-container {
     display: flex;
@@ -42,10 +39,6 @@ img:hover{
     font-size: 1.7rem;
     display: flex;
     align-items: center;
-}
-
-.navbar-logo:hover {
-    color: #f47d2f;
 }
 
 .fa-typo3 {
@@ -80,7 +73,6 @@ img:hover{
 .nav-links:hover {
     border-bottom: 4px solid #fff;
     transition: all 0.2s ease-out;
-    color: #f47d2f;
     }
 
 .fa-bars {

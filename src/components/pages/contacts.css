@@ -1,0 +1,19 @@
+.contatti-page a {
+    font-size: 21px;
+    color: #032d71;
+    display: flex;
+    text-decoration: none;
+    padding: 2rem;
+    justify-content: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.contatti-page img {
+    height: 25px;
+    margin-right: 10px;
+}
+
+.cards__container h3 {
+    text-align: center;
+}

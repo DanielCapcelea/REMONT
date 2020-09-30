@@ -20,14 +20,13 @@ function HeroSection() {
                 >
                     <i className="fas fa-phone-volume fa-fw"/> CHIAMA ORA
                 </Button>
-                <Button
-                    className='btns'
-                    buttonStyle='btn--outline'
-                    buttonSize='btn--large'
-                >
-                    RICHIEDI PREVENTIVO <i className="fas fa-euro-sign"></i>
-                </Button>
             </div>
+            <button
+
+                className="open-button" onClick="openForm()"
+            >
+                RICHIEDI PREVENTIVO <i className="fas fa-euro-sign"/>
+            </button>
         </div>
     );
 }

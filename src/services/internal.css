@@ -1,0 +1,32 @@
+.interni {
+    color: #132530;
+    padding-top: 2rem;
+    position: relative;
+    justify-content: center;
+    margin-bottom: 3rem;
+}
+
+.interni img {
+    height: 90px;
+    display: flex;
+    margin-left: 12rem;
+}
+
+.interni-testo a {
+    text-decoration: none;
+    color: #386c9c;
+}
+
+.interni-testo h3 {
+    color: #132530;
+}
+
+.interni-testo {
+    color: #102a4c;
+    font-size: 18px;
+    line-height: 20px;
+    padding: 35px 20px;
+    max-width: 1280px;
+    margin: 0 auto;
+    box-sizing: border-box;
+}

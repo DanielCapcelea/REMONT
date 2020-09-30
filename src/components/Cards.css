@@ -1,6 +1,7 @@
 .cards {
-    padding: 4rem;
-    background: #fff;
+    color: #274158;
+    font-size: 18px;
+    padding-top: 30px;
 }
 
 h1 {
@@ -14,6 +15,17 @@ h1 {
     max-width: 1120px;
     width: 90%;
     margin: 0 auto;
+}
+
+.cards__container h3 {
+    text-align: center;
+}
+
+
+.service24 img {
+    height: 65px;
+    position: relative;
+    top: 23px;
 }
 
 .cards__wrapper {
@@ -48,7 +60,7 @@ h1 {
     position: relative;
     width: 100%;
     padding-top: 67%;
-    overflow: hidden;
+
 }
 
 .fade-img {
@@ -62,7 +74,7 @@ h1 {
     bottom: 0;
     margin-left: 10%;
     padding: 6px 8px;
-    max-width: calc((100%) - 60px);
+    max-width: 100%;
     font-size: 25px;
     font-weight: 700;
     color: #fff;
@@ -93,11 +105,6 @@ h1 {
     padding: 20px 30px 30px;
 }
 
-.cards__item__text {
-    color: #252e48;
-    font-size: 18px;
-    line-height: 24px;
-}
 
 @media only screen and (min-width: 1200px) {
     .content__blog__container {
@@ -108,6 +115,7 @@ h1 {
 @media only screen and (min-width: 1024px) {
     .cards__items {
         display: flex;
+        width: 50rem;
     }
 }
 
