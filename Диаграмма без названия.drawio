@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-03T14:22:06.322Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="8DFN6Iqm1CSCbPK0kLDt" version="20.8.16" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-03T15:05:33.085Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="rxtYlMK477vjq91hW63s" version="20.8.16" type="github">
   <diagram name="Страница 1" id="7d10gsPvdiuB3qrxwGR7">
-    <mxGraphModel dx="2177" dy="1352" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+    <mxGraphModel dx="2177" dy="1352" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1700" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,10 +8,10 @@
           <mxGeometry x="40" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="I_1DLubx9sVYxjuG0Y9n-12" value="Day 2" style="whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="640" y="40" width="120" height="60" as="geometry" />
+          <mxGeometry x="520" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="I_1DLubx9sVYxjuG0Y9n-13" value="Day 3" style="whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="1240" y="40" width="120" height="60" as="geometry" />
+          <mxGeometry x="1080" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="I_1DLubx9sVYxjuG0Y9n-14" value="Day 4" style="whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="40" y="760" width="120" height="60" as="geometry" />
@@ -29,43 +29,40 @@
           <mxGeometry x="40" y="320" width="190" height="40" as="geometry" />
         </mxCell>
         <mxCell id="I_1DLubx9sVYxjuG0Y9n-20" value="Lasagna" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="1240" y="400" width="120" height="40" as="geometry" />
+          <mxGeometry x="1080" y="400" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="I_1DLubx9sVYxjuG0Y9n-21" value="Campot / Sucuri / Chefir" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="40" y="480" width="280" height="40" as="geometry" />
         </mxCell>
         <mxCell id="I_1DLubx9sVYxjuG0Y9n-22" value="Crem supa de dovleac" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="640" y="160" width="260" height="40" as="geometry" />
+          <mxGeometry x="520" y="160" width="260" height="40" as="geometry" />
         </mxCell>
         <mxCell id="I_1DLubx9sVYxjuG0Y9n-23" value="Zeama" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="640" y="240" width="100" height="40" as="geometry" />
+          <mxGeometry x="520" y="240" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="I_1DLubx9sVYxjuG0Y9n-24" value="Orez cu legume si piept de pui" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="640" y="320" width="350" height="40" as="geometry" />
+          <mxGeometry x="520" y="320" width="350" height="40" as="geometry" />
         </mxCell>
         <mxCell id="I_1DLubx9sVYxjuG0Y9n-25" value="Pennette al ragu&#39;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="640" y="400" width="200" height="40" as="geometry" />
+          <mxGeometry x="520" y="400" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="I_1DLubx9sVYxjuG0Y9n-26" value="Milanese con patatine" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="30" y="400" width="260" height="40" as="geometry" />
         </mxCell>
         <mxCell id="I_1DLubx9sVYxjuG0Y9n-27" value="Campot / Sucuri / Chefir" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="640" y="480" width="280" height="40" as="geometry" />
+          <mxGeometry x="520" y="480" width="280" height="40" as="geometry" />
         </mxCell>
         <mxCell id="I_1DLubx9sVYxjuG0Y9n-28" value="Campot / Sucuri / Chefir" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="1240" y="480" width="280" height="40" as="geometry" />
+          <mxGeometry x="1080" y="480" width="280" height="40" as="geometry" />
         </mxCell>
         <mxCell id="I_1DLubx9sVYxjuG0Y9n-29" value="Salata" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="40" y="560" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="I_1DLubx9sVYxjuG0Y9n-30" value="Salata" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="645" y="560" width="90" height="40" as="geometry" />
+          <mxGeometry x="525" y="560" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="I_1DLubx9sVYxjuG0Y9n-31" value="Salata" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="1240" y="560" width="90" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="I_1DLubx9sVYxjuG0Y9n-32" value="Orez alb cu piept de pui la grill" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="1240" y="320" width="350" height="40" as="geometry" />
+          <mxGeometry x="1080" y="560" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="I_1DLubx9sVYxjuG0Y9n-33" value="Campot / Sucuri / Chefir" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="40" y="1200" width="280" height="40" as="geometry" />
@@ -80,10 +77,28 @@
           <mxGeometry x="640" y="1280" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="I_1DLubx9sVYxjuG0Y9n-37" value="crem supa de broccoli" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="1235" y="160" width="260" height="40" as="geometry" />
+          <mxGeometry x="1075" y="160" width="260" height="40" as="geometry" />
         </mxCell>
         <mxCell id="I_1DLubx9sVYxjuG0Y9n-38" value="Soleanca" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="1240" y="240" width="120" height="40" as="geometry" />
+          <mxGeometry x="1080" y="240" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="I_1DLubx9sVYxjuG0Y9n-39" value="Hrisca cu carne ceapa si morcov" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="40" y="960" width="370" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="I_1DLubx9sVYxjuG0Y9n-40" value="Uha" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="40" y="880" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="I_1DLubx9sVYxjuG0Y9n-43" value="Paste(mereu diverse)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="320" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="I_1DLubx9sVYxjuG0Y9n-44" value="Orez alb cu piept de pui la grill" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1050" width="350" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="I_1DLubx9sVYxjuG0Y9n-46" value="Peste fara oase in sos, cu cartofi" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1120" width="370" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="I_1DLubx9sVYxjuG0Y9n-47" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="625" y="890" width="70" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
